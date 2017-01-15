@@ -1,0 +1,11 @@
+bin/
+Readme.txt
+makeZipForWeb.sh
+vmm-web/
+vmm-web.zip
+webpage/
+max_not_for_github/
+.DS_Store
+.classpath
+.project
+.settings/
